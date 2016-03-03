@@ -1,5 +1,5 @@
-print("Hello World!")
+pr;int("Hello World!");
 print("Hello d!")
 print("Hello ld!")\sd
-sd
-sd
+sd;
+sd;
