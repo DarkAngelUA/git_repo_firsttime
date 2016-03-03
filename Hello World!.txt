@@ -1,17 +1,4 @@
-print("Hello World!")
-print("Hello d!")
 print("Hello ld!")\sd
-sd
-sd
-Print("Hey!")
-sd
-ccd
-cd
-cd
-cd
-cd
-cd
-cd
 cd
 cd
 cd
